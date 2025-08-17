@@ -21,7 +21,7 @@
 | Scoring      | PPR                                                                 |
 | Waivers      | FAAB                                                                |
 | Special Rule | Interceptions thrown = -2 points                                    |
-| Playoffs     | 4 teams; single elimination; Final is 2-week combined; ends Week 17 |
+| Playoffs     | 6 teams; single elimination; Final is 2-week combined; ends Week 17 |
 | Draft        | Sept 2 @ 8:00 PM PDT; Snake; 2 min/pick                             |
 | Buy-in       | $20                                                                 |
 | Trade Veto   | Commissioner discretion; discuss concerns in league chat            |
