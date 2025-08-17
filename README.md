@@ -1,26 +1,49 @@
 # Fantasy Football League Rules & Details (2025 Season)
 
-## League Overview
+## Table of Contents
 
-- **Number of Players:** 10
-- **Scoring Format:** PPR (Point Per Reception)
-- **Waiver System:** FAAB (Free Agent Acquisition Budget)
-- **Special Rule:** Interceptions thrown = **-2 points** (all other scoring is standard)
+- [At a Glance](#at-a-glance)
+- [Roster Settings](#roster-settings)
+- [Playoffs](#playoffs)
+- [Transactions & Trades](#transactions--trades)
+- [Draft](#draft)
+- [Buy-In & Prizes](#buy-in--prizes)
+- [Collusion](#collusion)
+
+---
+
+## At a Glance
+
+| Setting      | Value                                                               |
+| ------------ | ------------------------------------------------------------------- |
+| Teams        | 10                                                                  |
+| Scoring      | PPR                                                                 |
+| Waivers      | FAAB                                                                |
+| Special Rule | Interceptions thrown = -2 points                                    |
+| Playoffs     | 4 teams; single elimination; Final is 2-week combined; ends Week 17 |
+| Draft        | Sept 2 @ 8:00 PM PDT; Snake; 2 min/pick                             |
+| Buy-in       | $20                                                                 |
+| Trade Veto   | Commissioner discretion; discuss concerns in league chat            |
+| Roster Lock  | After elimination: no trades or add/drops (lineup setting allowed)  |
 
 ---
 
 ## Roster Settings
 
-- **Starting Lineup:**
-  - 1 QB
-  - 2 RB
-  - 2 WR
-  - 1 TE
-  - 2 FLEX (RB/WR/TE)
-  - 1 Kicker (K)
-  - 1 Defense (DEF)
-- **Bench:** 6 spots
-- **IR Slot:** 1
+### Starting Lineup
+
+| Position        | Count |
+| --------------- | ----- |
+| QB              | 1     |
+| RB              | 2     |
+| WR              | 2     |
+| TE              | 1     |
+| FLEX (RB/WR/TE) | 2     |
+| K               | 1     |
+| DEF             | 1     |
+
+- Bench: 6
+- IR: 1
 
 ---
 
@@ -38,6 +61,14 @@
 
 - **Trade Deadline:** 3 weeks before playoffs begin
 - **Waivers:** FAAB system used
+- **Trade Veto Policy:** Vetoing trades is at the commissioner's discretion. Concerns may be raised in the league chat for transparency; the commissioner's decision is final.
+- **Roster Lock After Elimination:** Once a team is mathematically eliminated from playoff contention, that team's transactions are locked (no trades or add/drops). Lineup setting remains allowed. Final determination of elimination is at the commissioner's discretion.
+
+---
+
+## Collusion
+
+Collusion between league members is strictly prohibited. Examples include coordinated roster dumping, loan trades, and manipulating matchups or outcomes. The commissioner may investigate suspected collusion and impose penalties, which can include reversing trades, lineup/FAAB restrictions, loss of future draft picks, or removal from the league.
 
 ---
 
@@ -52,20 +83,16 @@
 
 ## Buy-In & Prizes
 
-- **Buy-In:** $20 per player
-- **Prize Distribution:**
-  - **League Champion:** $150
-  - **Runner-Up:** $30
-  - **Regular Season Winner:** $20
+- Buy-In: $20 per player
+
+| Award                 | Payout |
+| --------------------- | -----: |
+| League Champion       |   $150 |
+| Runner-Up             |    $30 |
+| Regular Season Winner |    $20 |
+
+Total payouts: $200
 
 ---
-
-## Quick Summary
-
-- 10 teams, PPR, FAAB waivers
-- 4-team playoff, 2-week final (ends Week 17)
-- Negative interceptions: -2 points
-- Draft on **Sept 2 @ 8 PM PDT**, 2 mins per pick
-- Buy-in: $20, Winner takes $150, Runner-up $30, Season Winner $20
 
 Good luck this season!
