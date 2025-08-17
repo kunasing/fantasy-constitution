@@ -50,7 +50,7 @@
 
 ## Playoffs
 
-- **Number of Teams:** 4
+- **Number of Teams:** 6
 - **Playoff Format:**
   - Standard single elimination
   - **Championship (Final):** 2-week combined score matchup
