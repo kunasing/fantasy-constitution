@@ -6,9 +6,10 @@
 - [Roster Settings](#roster-settings)
 - [Playoffs](#playoffs)
 - [Transactions & Trades](#transactions--trades)
+- [Collusion](#collusion)
 - [Draft](#draft)
 - [Buy-In & Prizes](#buy-in--prizes)
-- [Collusion](#collusion)
+- [Governance & Rule Changes](#governance--rule-changes)
 
 ---
 
@@ -60,7 +61,7 @@
 ## Transactions & Trades
 
 - **Trade Deadline:** 3 weeks before playoffs begin
-- **Waivers:** FAAB system used
+- **Waivers:** FAAB system used — see the Sleeper guide [here](https://support.sleeper.com/en/articles/1876040-how-does-faab-bidding-work).
 - **Trade Veto Policy:** Vetoing trades is at the commissioner's discretion. Concerns may be raised in the league chat for transparency; the commissioner's decision is final.
 - **Roster Lock After Elimination:** Once a team is mathematically eliminated from playoff contention, that team's transactions are locked (no trades or add/drops). Lineup setting remains allowed. Final determination of elimination is at the commissioner's discretion.
 
@@ -92,6 +93,14 @@ Collusion between league members is strictly prohibited. Examples include coordi
 | Regular Season Winner |    $20 |
 
 Total payouts: $200
+
+---
+
+## Governance & Rule Changes
+
+- Rule Change Window: Rules can only be changed before Week 1 of the NFL season begins. Once Week 1 kicks off, rules are locked for the remainder of the season.
+- Who Can Propose: Any manager may propose a rule change. Proposals should be serious and include a brief rationale.
+- Voting Threshold: Requires at least 70% approval of active managers to pass. Votes are recorded and announced by the commissioner in league chat.
 
 ---
 
